@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186490140871",
+    "project_id": "pemrograman-5-mahdi",
+    "storage_bucket": "pemrograman-5-mahdi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186490140871:android:99113faf5314298583a6e2",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan5_pemrograman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU1XWfa_sJrPqCXa__Ri-448Poga1n2e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
